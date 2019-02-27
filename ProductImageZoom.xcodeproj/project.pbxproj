@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1886F9FE2226B099006C1B7A /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 1886F9FD2226B099006C1B7A /* README.md */; };
+		1886FA012226B262006C1B7A /* One.png in Resources */ = {isa = PBXBuildFile; fileRef = 1886F9FF2226B261006C1B7A /* One.png */; };
+		1886FA022226B262006C1B7A /* Two.png in Resources */ = {isa = PBXBuildFile; fileRef = 1886FA002226B262006C1B7A /* Two.png */; };
 		18E7658F2216D0BF00FE5B15 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18E7658E2216D0BF00FE5B15 /* AppDelegate.swift */; };
 		18E765912216D0BF00FE5B15 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18E765902216D0BF00FE5B15 /* ViewController.swift */; };
 		18E765942216D0BF00FE5B15 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18E765922216D0BF00FE5B15 /* Main.storyboard */; };
@@ -37,6 +40,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1886F9FD2226B099006C1B7A /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		1886F9FF2226B261006C1B7A /* One.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = One.png; sourceTree = "<group>"; };
+		1886FA002226B262006C1B7A /* Two.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Two.png; sourceTree = "<group>"; };
 		18E7658B2216D0BF00FE5B15 /* ProductImageZoom.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ProductImageZoom.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		18E7658E2216D0BF00FE5B15 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		18E765902216D0BF00FE5B15 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -83,6 +89,9 @@
 		18E765822216D0BF00FE5B15 = {
 			isa = PBXGroup;
 			children = (
+				1886F9FF2226B261006C1B7A /* One.png */,
+				1886FA002226B262006C1B7A /* Two.png */,
+				1886F9FD2226B099006C1B7A /* README.md */,
 				18E7658D2216D0BF00FE5B15 /* ProductImageZoom */,
 				18E765A22216D0C100FE5B15 /* ProductImageZoomTests */,
 				18E765AD2216D0C100FE5B15 /* ProductImageZoomUITests */,
@@ -254,8 +263,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1886FA012226B262006C1B7A /* One.png in Resources */,
 				18E765992216D0C100FE5B15 /* LaunchScreen.storyboard in Resources */,
+				1886FA022226B262006C1B7A /* Two.png in Resources */,
 				18E765962216D0C100FE5B15 /* Assets.xcassets in Resources */,
+				1886F9FE2226B099006C1B7A /* README.md in Resources */,
 				18E765C22216D0F600FE5B15 /* ProductImageZoomStoryboard.storyboard in Resources */,
 				18E765942216D0BF00FE5B15 /* Main.storyboard in Resources */,
 			);
@@ -461,7 +473,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = FVXT9N7SZX;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = ProductImageZoom/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -479,7 +491,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = FVXT9N7SZX;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = ProductImageZoom/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
