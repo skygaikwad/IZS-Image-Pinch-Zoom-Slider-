@@ -4,7 +4,7 @@ Product Image ZOOM (Image Pinch Zoom Slider)
 
 IMAGES
 
-<!--![alt text](https://raw.githubusercontent.com/skygaikwad/ProductImageZoom/branch/path/to/img.png)-->
+![alt text](https://github.com/skygaikwad/ImageZoomerSlider/blob/master/One.png?raw=true)
 
 
 
