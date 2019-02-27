@@ -4,7 +4,7 @@ Product Image ZOOM (Image Pinch Zoom Slider)
 
 IMAGES
 
-![alt text](https://github.com/skygaikwad/ImageZoomerSlider/blob/master/One.png?raw=true "Image Zoom Silder")
+![alt text](https://github.com/skygaikwad/ImageZoomerSlider/blob/master/One.png?raw=false "Image Zoom Silder")
 ![alt text](https://github.com/skygaikwad/ImageZoomerSlider/blob/master/Two.png?raw=true)
 
 
